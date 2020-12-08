@@ -27,6 +27,6 @@ Slides and links 2020-2021 presentation on hacking ML systems
 * [Richard Harang - A Tutorial on Hacking Facial Recognition Systems](https://www.youtube.com/watch?v=b-lkYtprgVw)
 * [comathematician - Hyperlocal Drift Detection with Goko](https://www.youtube.com/watch?v=-F-eCJHSw9s) A method to potentially detect exploratory attacks by using the KL divergence and Cover Trees.
 ### Software
-* [CleverHans](https://github.com/tensorflow/cleverhans)
+* [CleverHans](https://github.com/tensorflow/cleverhans) A set of benchmarks to test vulnerability to Adversarial Examples
 ### Courses
 * [Infosec Institute - Hacking Machine Learning](https://www.infosecinstitute.com/skills/courses/hacking-machine-learning/) An online course on attacks on ML systems.
